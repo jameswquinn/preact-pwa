@@ -28,24 +28,24 @@ Copy code
 cd preact-webpack-pwa
 Install the dependencies:
 
-bash
+   ```bash
 Copy code
 npm install
 Development
 To start the development server, run the following command:
 
-bash
+   ```bash
 Copy code
 npm start
 The app will be served at http://localhost:8080.
 
-Build
+### Build
 To build the production-ready bundle, run the following command:
 
-bash
+   ```bash
 Copy code
 npm run build
 The optimized bundle will be generated in the dist directory.
 
-Contributing
+### Contributing
 Contributions are welcome! Please feel free to open a pull request or submit an issue if you find any bugs or want to suggest improvements.

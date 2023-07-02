@@ -21,9 +21,9 @@ Make sure you have Node.js and npm installed on your machine.
 
    ```bash
    git clone https://github.com/your-username/preact-webpack-pwa.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
-bash
+   ```bash
 Copy code
 cd preact-webpack-pwa
 Install the dependencies:

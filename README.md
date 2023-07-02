@@ -21,3 +21,31 @@ Make sure you have Node.js and npm installed on your machine.
 
    ```bash
    git clone https://github.com/your-username/preact-webpack-pwa.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd preact-webpack-pwa
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Development
+To start the development server, run the following command:
+
+bash
+Copy code
+npm start
+The app will be served at http://localhost:8080.
+
+Build
+To build the production-ready bundle, run the following command:
+
+bash
+Copy code
+npm run build
+The optimized bundle will be generated in the dist directory.
+
+Contributing
+Contributions are welcome! Please feel free to open a pull request or submit an issue if you find any bugs or want to suggest improvements.
